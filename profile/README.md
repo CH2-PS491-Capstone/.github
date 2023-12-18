@@ -1,12 +1,9 @@
 # Capstone Bangkit Academy CH2-PS491
 
-<!--
+## Introduction
 
-**Here are some ideas to get you started:**
+Recycle Me is an Sustainable Living App Android platform that can make it easier for users, especially Indonesians, to recycle waste. In this application there are 3 main features, namely:
+- Complete recycling articles with 8 waste categories
+- Scan trash along with recommended articles about recycling
+- Coin rewards that can be exchanged for E-Wallet balance
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
