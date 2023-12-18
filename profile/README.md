@@ -21,6 +21,6 @@ Recycle Me is an Sustainable Living App Android platform that can make it easier
 - (MD) A204BSY2438 – Maulana Fajar Lazuardi – Universitas Esa Unggul
 
 ## Repositories
-- [Recycle-Me-ML](https://github.com/CH2-PS491-Capstone/Recycle-Me-ML)https://github.com/CH2-PS491-Capstone/Recycle-Me-ML)
+- [Recycle-Me-ML](https://github.com/CH2-PS491-Capstone/Recycle-Me-ML)
 - [Recycle-Me-API](https://github.com/CH2-PS491-Capstone/Recycle-Me-API)
 - [Recycle-Me-Mobile](https://github.com/CH2-PS491-Capstone/Recycle-Me-Mobile)
