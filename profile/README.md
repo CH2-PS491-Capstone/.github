@@ -1,4 +1,4 @@
-## Capstone Bangkit Academy CH2-PS491
+# Capstone Bangkit Academy CH2-PS491
 
 <!--
 
